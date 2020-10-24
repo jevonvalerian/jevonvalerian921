@@ -5,23 +5,23 @@
 
 1. TensorFlow
 
-TensorFlow adalah platform open source untuk Machine Learning yang memiliki ekosistem alat, pustaka, dan sumber daya komunitas yang komprehensif dan fleksibel dalam mendorong pemutakhiran dan pengembangan *Machine Learning*. TensorFlow memudahkan pembuatan sebuah model menggunakan API tingkat tinggi seperti Keras dengan eksekusi yang cepat dan proses debug yang mudah. Selain itu, TensorFlow memberikan produksi ML yang kuat dengan penerapan model di cloud, lokasi, browser, dan lainnya apapun bahasa yang Anda gunakan serta arsitektur yang sederhana dan fleksibel yang membawa ide-ide baru ke model-model mutakhir. Sehingga, membuat publikasi yang lebih cepat.
+TensorFlow is an open source platform for machine learning that has a comprehensive and flexible ecosystem of tools, libraries, and community resources driving upgrades and *Machine Learning* development. TensorFlow makes it easy to build a model using high-level APIs like Keras with fast execution and easy debugging. In addition, TensorFlow delivers powerful ML production with modeling deployments in the cloud, location, browser, and more regardless of the language you use as well as a simple and flexible architecture that brings new ideas to cutting-edge models. Thus, making publication faster.
 
-TensorFlow sendiri juga diimplementasikan di beberapa bidang, seperti IoT (Image Classification, Object Detection, Pose Estimation, Smart Reply, Segmentation, Style Transfer, Text Classification, Natural Language Question Answering, dan lain-lain)
+TensorFlow itself is also implemented in several fields, such as IoT (Image Classification, Object Detection, Pose Estimation, Smart Reply, Segmentation, Style Transfer, Text Classification, Natural Language Question Answering, and others)
 
-Pada bidang produksi, TensorFlow memanfaatkan penggunaan TFX. TFX adalah platform *Machine Learning* skala produksi Google yang didasarkan pada TensorFlow. Hal ini menyediakan kerangka kerja konfigurasi dan pustaka bersama untuk mengintegrasikan komponen umum yang diperlukan untuk menentukan, meluncurkan, dan memantau sistem pembelajaran mesin Anda.
+In the production sector, TensorFlow takes advantage of the use of TFX. TFX is Google's production scale *Machine Learning* platform based on TensorFlow. It provides a shared library and configuration framework for integrating the common components needed to define, launch and monitor your machine learning system.
 
-Salah satu penerapannya adalah Neural Network, Neural Machine Translation with Attention dan Deep Convolutional Generative Adversarial Network yang dapat menghasilkan gambar digit tulisan tangan menggunakan Keras Sequential API.
+One of its applications is the Neural Network, Neural Machine Translation with Attention and the Deep Convolutional Generative Adversarial Network which can produce handwritten digit images using the Keras Sequential API.
 
 2. Android + Flutter
 
-Sekarang perkembangan Android sudah sangat pesar dan sedang dalam tahap pemutakhiran Android 11. Sekarang ini Beta 3 sudah tersedia untuk pengujian dan pengembangan di perangkat Anda. Beberapa hal yang disertakan di Android 11 adalah perubahan perilaku yang dapat memengaruhi aplikasi saat berjalan, fitur privasi untuk melindungi privasi pengguna, dan fitur dan API baru untuk 5G, berbagi, konektivitas, media, NNAPI, biometrik, dan masih banyak lagi. Android 11 juga sudah diperkenalkan pada Android TV, Media Control, dan masih banyak lagi.
+Now the development of Android is very large and is in the stage of updating Android 11. Now Beta 3 is available for testing and development on your device. Some of the things included in Android 11 are behavior changes that can affect applications while running, privacy features to protect user privacy, and new features and APIs for 5G, sharing, connectivity, media, NNAPI, biometrics, and much more. Android 11 has also been introduced to Android TV, Media Control, and many more.
 
-Untuk UI dari Android itu sendiri ternyata bisa dikonfigurasikan dengan sebuah Google's UI toolkit bernama Flutter. Flutter dapat memberikan tampilan design yang lebih cantik, menarik, dan proses pengerjaan yang efisien yang cepat. Flutter sendiri bisa diimplementasikan untuk hampir semua tipe platform, seperti mobile, web, desktop app.
+The UI for Android itself turns out to be configured with Google's UI toolkit called Flutter. Flutter can provide a more beautiful, attractive design, and an efficient, fast processing process. Flutter itself can be implemented for almost all types of platforms, such as mobile, web, desktop app.
 
 3. Google Ads API
 
-Google Ads API adalah program interface modern ke Google Ads dan AdWords API generasi berikutnya. Hal ini memungkinkan pengembangan untuk berinteraksi langsung dengan platform Google Ads, sehingga sangat meningkatkan efisiensi pengelolaan akun dan kampanye Google Ads yang besar atau kompleks. Beberapa kasus penggunaan umum meliputi: 
-- Manajemen iklan berdasarkan inventaris
-- Kelola strategi Smart Bidding dengan Google Ads API Anda dapat membuat perangkat lunak yang mengelola akun dari tingkat pelanggan hingga tingkat kata kunci.
-- API juga dapat melakukan apa yang dilakukan UI Google Ads, tetapi secara terprogram
+The Google Ads API is a modern interface to the next generation Google Ads and AdWords API. This allows development to interact directly with the Google Ads platform, greatly increasing the efficiency of managing large or complex Google Ads accounts and campaigns. Some common use cases include:
+- Ad management based on inventory
+- Manage Smart Bidding strategies with Google Ads API. You can create software that manages accounts from the customer level to the keyword level.
+- The API can also do what the Google Ads UI does, but programmatically
